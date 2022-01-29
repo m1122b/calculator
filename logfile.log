@@ -1,0 +1,118 @@
+2022-01-29 17:31:30,157 2
+2022-01-29 17:33:01,350 2
+2022-01-29 17:33:16,077 First input: 1
+2022-01-29 17:34:14,708 First input: 2
+2022-01-29 17:37:57,011 First input: 2
+2022-01-29 17:40:15,707 First input: 1
+2022-01-29 17:43:38,100 First input (kind) : 1
+2022-01-29 17:43:39,140 First input: 1
+2022-01-29 17:46:02,651 First input (kind) : 1
+2022-01-29 17:46:05,123 First input: 12
+2022-01-29 17:46:07,395 First input: 23
+2022-01-29 17:47:46,795 First input (kind) : 1
+2022-01-29 17:47:47,835 First choice (number1): 1
+2022-01-29 17:47:49,116 Second choice (number2): 2
+2022-01-29 17:52:36,251 First input (kind) : 2
+2022-01-29 17:52:37,843 First choice (number1): 3
+2022-01-29 17:52:38,778 Second choice (number2): 2
+2022-01-29 18:07:13,058 First input (kind) : 10
+2022-01-29 18:08:03,018 First choice (number1): 2
+2022-01-29 18:08:04,850 Second choice (number2): 1
+2022-01-29 18:08:04,850 Standard result (result): 0
+2022-01-29 18:08:04,851 Wrong result (result): 0
+2022-01-29 18:11:11,593 First input (kind) : 12
+2022-01-29 18:12:51,513 First input (kind) : 12
+2022-01-29 18:12:51,514 Wrong result (kind): 12
+2022-01-29 18:13:25,329 First input (kind) : 12
+2022-01-29 18:13:25,330 Wrong result (kind): 12
+2022-01-29 18:13:54,402 First input (kind) : 1
+2022-01-29 18:13:54,403 Wrong result (kind): 1
+2022-01-29 18:14:45,849 First input (kind) : 1
+2022-01-29 18:14:45,850 Wrong result (kind): 1
+2022-01-29 18:16:42,249 First input (kind) : 1
+2022-01-29 18:16:44,353 First choice (number1): 2
+2022-01-29 18:16:45,177 Second choice (number2): 1
+2022-01-29 18:16:45,177 Standard result (result): 0
+2022-01-29 18:16:45,177 Add result (result): 0
+2022-01-29 18:16:49,464 First input (kind) : 12
+2022-01-29 18:16:51,792 First choice (number1): 1
+2022-01-29 18:16:52,561 Second choice (number2): 1
+2022-01-29 18:16:52,561 Standard result (result): 0
+2022-01-29 18:16:52,562 Wrong result (kind): 12
+2022-01-29 18:17:23,488 First input (kind) : 12
+2022-01-29 18:17:23,489 Wrong result (kind): 12
+2022-01-29 18:17:28,129 First input (kind) : 2
+2022-01-29 18:17:29,681 First choice (number1): 1
+2022-01-29 18:17:30,256 Second choice (number2): 1
+2022-01-29 18:17:30,256 Standard result (result): 0
+2022-01-29 18:17:30,256 Subtraction result (result): 0
+2022-01-29 18:17:35,665 First input (kind) : 2
+2022-01-29 18:17:36,713 First choice (number1): 2
+2022-01-29 18:17:37,160 Second choice (number2): 2
+2022-01-29 18:17:37,160 Standard result (result): 0
+2022-01-29 18:17:37,160 Subtraction result (result): 0
+2022-01-29 18:17:41,073 First input (kind) : 3
+2022-01-29 18:17:43,313 First choice (number1): 1
+2022-01-29 18:17:43,833 Second choice (number2): 1
+2022-01-29 18:17:43,833 Standard result (result): 0
+2022-01-29 18:17:43,833 Multiplication result (result): 0
+2022-01-29 18:17:49,704 First input (kind) : 4
+2022-01-29 18:17:51,273 First choice (number1): 2
+2022-01-29 18:17:51,713 Second choice (number2): 2
+2022-01-29 18:17:51,713 Standard result (result): 0
+2022-01-29 18:17:51,713 Division result (result): 0
+2022-01-29 18:17:57,352 First input (kind) : 5
+2022-01-29 18:18:07,521 First choice (number1): 2
+2022-01-29 18:18:07,993 Second choice (number2): 2
+2022-01-29 18:18:07,993 Standard result (result): 0
+2022-01-29 18:18:07,994 Wrong result (kind): 5
+2022-01-29 18:18:15,840 First input (kind) : 6
+2022-01-29 18:18:15,841 Wrong result (kind): 6
+2022-01-29 18:18:36,585 First input (kind) : 0
+2022-01-29 18:18:36,586 Wrong result (kind): 0
+2022-01-29 18:18:40,608 First input (kind) : 5
+2022-01-29 18:18:40,609 Wrong result (kind): 5
+2022-01-29 18:18:46,200 First input (kind) : 4
+2022-01-29 18:18:48,000 First choice (number1): 2
+2022-01-29 18:18:48,289 Second choice (number2): 2
+2022-01-29 18:18:48,289 Standard result (result): 0
+2022-01-29 18:18:48,289 Division result (result): 0
+2022-01-29 18:21:28,048 First input (kind) : 1
+2022-01-29 18:21:29,336 First choice (number1): 1
+2022-01-29 18:21:30,176 Second choice (number2): 1
+2022-01-29 18:21:30,176 Standard result (result): None
+2022-01-29 18:21:30,176 Add result (result): None
+2022-01-29 18:30:02,688 First input (kind) : -1
+2022-01-29 18:30:02,688 Wrong result (kind): -1
+2022-01-29 18:30:07,239 First input (kind) : 1
+2022-01-29 18:30:08,511 First choice (number1): 1
+2022-01-29 18:30:08,895 Second choice (number2): 1
+2022-01-29 18:30:08,896 Add result (number1 + number2): 2
+2022-01-29 18:30:18,712 First input (kind) : 2
+2022-01-29 18:30:20,768 First choice (number1): 2
+2022-01-29 18:30:22,824 Second choice (number2): 1
+2022-01-29 18:30:22,825 Subtraction result (number1 - number2): 1
+2022-01-29 18:30:34,944 First input (kind) : 3
+2022-01-29 18:30:37,640 First choice (number1): 2
+2022-01-29 18:30:38,216 Second choice (number2): 2
+2022-01-29 18:30:38,218 Multiplication result (number1 * number2): 4
+2022-01-29 18:30:48,143 First input (kind) : 4
+2022-01-29 18:30:53,368 First choice (number1): 4
+2022-01-29 18:30:54,816 Second choice (number2): 2
+2022-01-29 18:30:54,817 Division result (number1 / number2): 2.0
+2022-01-29 18:31:06,800 First input (kind) : 5
+2022-01-29 18:31:06,800 Wrong result (kind): 5
+2022-01-29 18:35:34,136 First input (kind) : 1
+2022-01-29 18:36:42,127 First choice (number1): 11
+2022-01-29 18:36:42,815 Second choice (number2): 1
+2022-01-29 18:36:42,816 Add result (number1 + number2): 12
+2022-01-29 18:41:08,310 First input (kind_str) : fdsfdsdf
+2022-01-29 18:50:19,958 First input (kind_str) : 2
+2022-01-29 18:50:21,349 First choice (number1): 2
+2022-01-29 18:50:21,669 Second choice (number2): 2
+2022-01-29 18:50:21,670 Subtraction result (number1 - number2): 0
+2022-01-29 18:54:47,254 First input (kind_str) : 2 i typ <class 'str'>
+2022-01-29 18:54:48,391 First choice (number1): 2
+2022-01-29 18:54:48,654 Second choice (number2): 2
+2022-01-29 18:54:48,655 Subtraction result (number1 - number2): 0
+2022-01-29 18:54:54,701 First input (kind_str) : asd i typ <class 'str'>
