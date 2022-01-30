@@ -116,3 +116,70 @@
 2022-01-29 18:54:48,654 Second choice (number2): 2
 2022-01-29 18:54:48,655 Subtraction result (number1 - number2): 0
 2022-01-29 18:54:54,701 First input (kind_str) : asd i typ <class 'str'>
+2022-01-30 18:58:53,536 First input (kind_str) : fsdfsd i typ <class 'str'>
+2022-01-30 18:59:11,256 First input (kind_str) : s i typ <class 'str'>
+2022-01-30 18:59:16,863 First input (kind_str) : q i typ <class 'str'>
+2022-01-30 18:59:21,615 First input (kind_str) : ! i typ <class 'str'>
+2022-01-30 19:08:34,247 First input (kind_str) : a i typ <class 'str'>
+2022-01-30 19:09:38,957 First input (kind_str) : a i typ <class 'str'>
+2022-01-30 19:10:01,206 First input (kind_str) : a i typ <class 'str'>
+2022-01-30 19:10:39,559 First input (kind_str) : 1 i typ <class 'str'>
+2022-01-30 19:10:40,654 First choice (number1): 1
+2022-01-30 19:10:40,998 Second choice (number2): 1
+2022-01-30 19:10:40,999 Add result (number1 + number2): 2
+2022-01-30 19:10:50,166 First input (kind_str) : q i typ <class 'str'>
+2022-01-30 19:13:22,637 First input (kind_str) : a i typ <class 'str'>
+2022-01-30 19:18:13,741 First input (kind_str) : a i typ <class 'str'>
+2022-01-30 19:18:17,893 First input (kind_str) : 2 i typ <class 'str'>
+2022-01-30 19:18:19,566 First choice (number1): 2
+2022-01-30 19:18:19,885 Second choice (number2): 2
+2022-01-30 19:18:19,886 Subtraction result (number1 - number2): 0
+2022-01-30 19:18:25,150 First input (kind_str) : q i typ <class 'str'>
+2022-01-30 19:22:11,413 First input (kind_str) : q i typ <class 'str'>
+2022-01-30 19:22:15,293 First input (kind_str) : 1 i typ <class 'str'>
+2022-01-30 19:22:17,325 First choice (number1): q
+2022-01-30 19:22:22,909 First input (kind_str) : 2 i typ <class 'str'>
+2022-01-30 19:22:25,285 First choice (number1): a
+2022-01-30 19:22:29,693 First input (kind_str) : 1 i typ <class 'str'>
+2022-01-30 19:22:30,397 First choice (number1): 1
+2022-01-30 19:22:32,766 Second choice (number2): q
+2022-01-30 19:24:25,141 First input (kind_str) : 1 i typ <class 'str'>
+2022-01-30 19:24:25,725 First choice (number1): 1
+2022-01-30 19:24:26,157 Second choice (number2): 1
+2022-01-30 19:24:26,158 Add result (number1 + number2): 2
+2022-01-30 19:24:30,957 First input (kind_str) : w i typ <class 'str'>
+2022-01-30 19:24:36,565 First input (kind_str) : 5 i typ <class 'str'>
+2022-01-30 19:24:36,566 Wrong result (kind): 5
+2022-01-30 19:24:42,669 First input (kind_str) : 4 i typ <class 'str'>
+2022-01-30 19:24:44,349 First choice (number1): 2
+2022-01-30 19:24:44,693 Second choice (number2): 2
+2022-01-30 19:24:44,694 Division result (number1 / number2): 1.0
+2022-01-30 19:27:04,469 First input (kind_str) : 2 i typ <class 'str'>
+2022-01-30 19:27:04,469 First input (kind) : 2 i typ <class 'int'>
+2022-01-30 19:27:05,245 First choice (number1_str): 1
+2022-01-30 19:27:05,245 First input (kind) : 2 i typ <class 'int'>
+2022-01-30 19:27:06,341 Second choice (number2): 3
+2022-01-30 19:27:06,341 Subtraction result (number1 - number2): -2
+2022-01-30 19:28:14,397 First input (kind_str) : q i typ <class 'str'>
+2022-01-30 19:34:55,380 First input (kind_str) : a i typ <class 'str'>
+2022-01-30 19:35:00,484 First input (kind_str) : 2 i typ <class 'str'>
+2022-01-30 19:35:00,484 First input (kind) : 2 i typ <class 'int'>
+2022-01-30 19:35:02,660 First choice (number1_str): s i typ <class 'str'>
+2022-01-30 19:35:07,684 First input (kind_str) : 4 i typ <class 'str'>
+2022-01-30 19:35:07,684 First input (kind) : 4 i typ <class 'int'>
+2022-01-30 19:35:09,700 First choice (number1_str): 2 i typ <class 'str'>
+2022-01-30 19:35:09,700 First chice (number1) : 2 i typ <class 'int'>
+2022-01-30 19:35:12,604 Second choice (number2_str): sdfsdf i typ <class 'str'>
+2022-01-30 19:35:19,156 First input (kind_str) : 3 i typ <class 'str'>
+2022-01-30 19:35:19,157 First input (kind) : 3 i typ <class 'int'>
+2022-01-30 19:35:20,212 First choice (number1_str): 2 i typ <class 'str'>
+2022-01-30 19:35:20,212 First chice (number1) : 2 i typ <class 'int'>
+2022-01-30 19:35:21,940 Second choice (number2_str): 4 i typ <class 'str'>
+2022-01-30 19:35:21,940 Second choice (number2): 4 i typ <class 'int'>
+2022-01-30 19:35:21,940 Multiplication result (number1 * number2): 8
+2022-01-30 19:37:53,460 First input (kind_str) : 3 i typ <class 'str'>
+2022-01-30 19:37:53,460 First input (kind) : 3 i typ <class 'int'>
+2022-01-30 19:37:55,716 First choice (number1_str): 2 i typ <class 'str'>
+2022-01-30 19:37:55,716 First chice (number1) : 2 i typ <class 'int'>
+2022-01-30 19:37:57,995 Second choice (number2_str): qweqwe i typ <class 'str'>
+2022-01-30 19:37:57,996 Its not number -> EXIT
